@@ -16,5 +16,9 @@
     "url": "https://github.com/susisu/shijimi/issues"
   },
   "homepage": "https://github.com/susisu/shijimi#readme",
-  "private": true
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.15.0"
+  }
 }
